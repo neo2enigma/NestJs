@@ -1,4 +1,4 @@
 # NestJs
 NestJS codes
 
-NestJs Redis @nestjs/redis package [GitHub Pages](https://github.com/neo2enigma/nestjs-redis).
+NestJs Redis @nestjs/redis package [GitHub Page](https://github.com/neo2enigma/nestjs-redis).
